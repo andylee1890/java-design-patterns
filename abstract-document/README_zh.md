@@ -1,8 +1,8 @@
 ---
-layout: pattern  
-title: 抽象文档  
-folder: abstract-document  
-permalink: /patterns/abstract-document/  
+布局: 模式  
+标题: 抽象文档  
+文件夹: abstract-document  
+相对链接: /patterns/abstract-document/  
 类别: Structural  
 标签: 
  - Java
@@ -21,7 +21,7 @@ permalink: /patterns/abstract-document/
 * 你想要更松散耦合的系统
 
 
-## Credits
+## 参考
 
 * [Wikipedia: Abstract Document Pattern](https://en.wikipedia.org/wiki/Abstract_Document_Pattern)
 * [Martin Fowler: Dealing with properties](http://martinfowler.com/apsupp/properties.pdf)

@@ -1,10 +1,18 @@
 ---
-layout: pattern
-title: 
-folder: 
-permalink: 
-categories: 
-tags: 
+布局:   
+标题:   
+文件夹:   
+相对链接:   
+类别:   
+标签: 
  - Java
  - 难度 - 
 ---
+
+## 目标
+
+
+## 适用性
+
+
+## 参考
