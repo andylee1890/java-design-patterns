@@ -1,12 +1,12 @@
 ---
-布局:   
-标题:   
-文件夹:   
-相对链接:   
-类别:   
+布局: 模式  
+标题: 聚合微服务  
+文件夹: aggregator-microservices  
+相对链接: /patterns/aggregator-microservices/  
+范畴: 架构  
 标签: 
  - Java
- - 难度 - 
+ - Spring 
 ---
 
 ## 目标

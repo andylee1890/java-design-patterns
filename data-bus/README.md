@@ -3,7 +3,6 @@ layout: pattern
 title: Data Bus
 folder: data-bus
 permalink: /patterns/data-bus/
-
 categories: Architectural
 tags:
  - Java
